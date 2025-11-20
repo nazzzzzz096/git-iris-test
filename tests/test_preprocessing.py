@@ -1,5 +1,5 @@
 import numpy as np
-from .preprocessing import normalize
+from preprocessing import normalize
 
 
 def test_normalize_range():

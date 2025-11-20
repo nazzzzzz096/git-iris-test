@@ -1,4 +1,4 @@
-from .models import predict, load_model
+from models import predict, load_model
 import os
 
 
